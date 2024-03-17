@@ -24,28 +24,6 @@ O OSB contribui para a melhoria da gestão pública por meio do **controle socia
 - **Engajamento**: Compartilhe os dados com seus amigos, colegas e redes sociais. Mostre que você está antenado nas questões políticas.
 - **Aprendizado**: Aprenda sobre o processo legislativo e como as propostas são apresentadas, debatidas e votadas.
 
-Como Começar
-1.	Instalação:
-o	Certifique-se de ter o Python instalado em sua máquina.
-o	Execute pip install requests beautifulsoup4 pandas para instalar as bibliotecas necessárias.
-2.	Configuração:
-o	Abra o arquivo ExtractProposicoes.py.
-o	Defina os parâmetros: tipo_proposicao, data_inicio e data_final.
-3.	Execução:
-o	Execute o programa: python ExtractProposicoes.py.
-o	Veja os resultados organizados no console ou salve-os em um arquivo.
-Contribua!
-Se você é um desenvolvedor apaixonado por política ou apenas quer se envolver em um projeto interessante, junte-se a nós! Contribua com melhorias, adicione novos recursos e ajude a tornar o ExtractProposicoes ainda mais incrível.
-Saiba Mais
-•	Site Oficial do Observatório Social do Brasil
-•	O que é um Observatório Social do Brasil (OSB)?
-•	Como Funciona o OSB?
-________________________________________
-Nota: Este projeto é puramente educativo e não tem nenhuma afiliação oficial com órgãos legislativos. Use-o com responsabilidade e curiosidade saudável! 🇧🇷📜🤝
-
-Copilot
-Claro! Aqui está o texto convertido para Markdown:
-
 # Como Começar
 
 1. **Instalação**:
